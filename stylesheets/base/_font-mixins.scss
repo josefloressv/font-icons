@@ -7,9 +7,13 @@
     $family:"entypo";
     $file:"entypo";
   }
+  @else if $family == "entypo-social" {
+    $family:"entypo-social";
+    $file:"entypo-social";
+  }
   @font-face {
-    font-family: '#{$family}'; 
-    src: font-url('#{$file}.eot'); 
+    font-family: '#{$family}';
+    src: font-url('#{$file}.eot');
     src: font-url('#{$file}.eot?#iefix') format('embedded-opentype'),
          font-url('#{$file}.woff') format('woff'),
          font-url('#{$file}.ttf') format('truetype'),
@@ -28,6 +32,10 @@
   @else if $family == "entypo" {
     $family:"entypo";
     $file:"entypo";
+  }
+  @else if $family == "entypo-social" {
+    $family:"entypo-social";
+    $file:"entypo-social";
   }
   &:before {
     font-family: "#{$family}";
