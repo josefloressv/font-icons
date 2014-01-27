@@ -9,7 +9,7 @@
   list-style: none;
   list-style-image: none;
   li {
-    @include font-icon-base(entypo);
+    @include font-icon-base(entypo, 1.5em, 0.25em);
   }
 }
 

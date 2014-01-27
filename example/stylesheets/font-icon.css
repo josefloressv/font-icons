@@ -394,9 +394,9 @@
 
 .entypo-camera:before { content: '\1F4F7'; }
 
-.entypo-megaphone:before { content: '1F4E3'; }
+.entypo-megaphone:before { content: '\1F4E3'; }
 
-.entypo-moon:before { content: '\0045'; }
+.entypo-moon:before { content: '\263D'; }
 
 .entypo-palette:before { content: '\1F3A8'; }
 
@@ -783,7 +783,7 @@
 @font-face { font-family: "IconicFill"; src: url('../../lib/templates/project/iconic.eot'); src: url('../../lib/templates/project/iconic.eot?#iefix') format("embedded-opentype"), url('../../lib/templates/project/iconic.woff') format("woff"), url('../../lib/templates/project/iconic.ttf') format("truetype"), url('../../lib/templates/project/iconic.svg#IconicFill') format("svg"), url('../../lib/templates/project/iconic.otf') format("opentype"); font-weight: normal; font-style: normal; }
 
 .entypo { list-style: none; list-style-image: none; }
-.entypo li:before { font-family: "entypo"; font-style: normal; font-size: 1em; margin-right: 0.8em; text-align: center; display: inline-block; width: 1em; }
+.entypo li:before { font-family: "entypo"; font-style: normal; font-size: 1.5em; margin-right: 0.8em; text-align: center; display: inline-block; width: 0.25em; }
 
 ul.iconic { list-style: none; list-style-image: none; }
 ul.iconic li:before { font-family: "IconicFill"; font-style: normal; font-size: 1em; margin-right: 0.8em; text-align: center; display: inline-block; width: 1em; }
