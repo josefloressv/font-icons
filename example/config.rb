@@ -7,6 +7,7 @@ output_style =  :compact
 project_type = :stand_alone
 css_dir = "stylesheets"
 sass_dir = "sass"
+fonts_dir = "../lib/templates/project"
 images_dir = "images"
 relative_assets = true
 

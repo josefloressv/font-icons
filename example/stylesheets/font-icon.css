@@ -776,11 +776,11 @@
 
 .entypo-db-shape:before { content: '\1F5FA'; }
 
-@font-face { font-family: "entypo"; src: url('fonts/entypo.eot'); src: url('fonts/entypo.eot?#iefix') format("embedded-opentype"), url('fonts/entypo.woff') format("woff"), url('fonts/entypo.ttf') format("truetype"), url('fonts/entypo.svg#entypo') format("svg"), url('fonts/entypo.otf') format("opentype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "entypo"; src: url('../../lib/templates/project/entypo.eot'); src: url('../../lib/templates/project/entypo.eot?#iefix') format("embedded-opentype"), url('../../lib/templates/project/entypo.woff') format("woff"), url('../../lib/templates/project/entypo.ttf') format("truetype"), url('../../lib/templates/project/entypo.svg#entypo') format("svg"), url('../../lib/templates/project/entypo.otf') format("opentype"); font-weight: normal; font-style: normal; }
 
-@font-face { font-family: "entypo-social"; src: url('fonts/entypo-social.eot'); src: url('fonts/entypo-social.eot?#iefix') format("embedded-opentype"), url('fonts/entypo-social.woff') format("woff"), url('fonts/entypo-social.ttf') format("truetype"), url('fonts/entypo-social.svg#entypo-social') format("svg"), url('fonts/entypo-social.otf') format("opentype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "entypo-social"; src: url('../../lib/templates/project/entypo-social.eot'); src: url('../../lib/templates/project/entypo-social.eot?#iefix') format("embedded-opentype"), url('../../lib/templates/project/entypo-social.woff') format("woff"), url('../../lib/templates/project/entypo-social.ttf') format("truetype"), url('../../lib/templates/project/entypo-social.svg#entypo-social') format("svg"), url('../../lib/templates/project/entypo-social.otf') format("opentype"); font-weight: normal; font-style: normal; }
 
-@font-face { font-family: "IconicFill"; src: url('fonts/iconic.eot'); src: url('fonts/iconic.eot?#iefix') format("embedded-opentype"), url('fonts/iconic.woff') format("woff"), url('fonts/iconic.ttf') format("truetype"), url('fonts/iconic.svg#IconicFill') format("svg"), url('fonts/iconic.otf') format("opentype"); font-weight: normal; font-style: normal; }
+@font-face { font-family: "IconicFill"; src: url('../../lib/templates/project/iconic.eot'); src: url('../../lib/templates/project/iconic.eot?#iefix') format("embedded-opentype"), url('../../lib/templates/project/iconic.woff') format("woff"), url('../../lib/templates/project/iconic.ttf') format("truetype"), url('../../lib/templates/project/iconic.svg#IconicFill') format("svg"), url('../../lib/templates/project/iconic.otf') format("opentype"); font-weight: normal; font-style: normal; }
 
 .entypo { list-style: none; list-style-image: none; }
 .entypo li:before { font-family: "entypo"; font-style: normal; font-size: 1em; margin-right: 0.8em; text-align: center; display: inline-block; width: 1em; }
